@@ -1,0 +1,31 @@
+"Q Tips Chapter 3 Notes"
+
+"--- Lists ---"
+
+"Two Data Types: Atoms and Lists"
+"Uniform Lists are efficient: Can be stored compacted, typed check one element instead of all during run time, and efficient vector operations"
+
+"---Character Vectors---"
+"Index: "
+"\"helloworld\"[0]"
+"helloworld"[0]
+"---"
+"Reverse"
+"reverse \"hello world\""
+reverse "hello world"
+"---"
+"Join"
+"\"hello\", \" \", \"world\""
+"hello", " ", "world"
+"---"
+"Sub Elements"
+"5#\"helloworld\""
+5#"helloworld"
+"-5#\"helloworld\""
+-5#"helloworld"
+"---"
+"Rotate"
+" 5 rotate \"helloworld]\""
+5 rotate "helloworld"
+"---Atomic Functions---"
+
